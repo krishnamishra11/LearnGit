@@ -7,3 +7,7 @@ Test file updated without push
 ###
 
 Test file changes for commit short cut
+
+####
+
+Multiple files commited
